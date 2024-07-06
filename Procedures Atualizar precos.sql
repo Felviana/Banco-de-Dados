@@ -1,0 +1,1 @@
+#crie uma procedure para atualizar os preços da tabela pc_curso
