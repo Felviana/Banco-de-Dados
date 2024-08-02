@@ -1,0 +1,1 @@
+SELECT * FROM diversas_tabelas.clientes;
